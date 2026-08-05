@@ -1,0 +1,6 @@
+{
+  "name": "VoiceCraft Studio AI",
+  "description": "Human-like emotional TTS, Voice Cloning simulation, Multilingual Hindi-English Speech Synthesis, Audio Transcription, API Access, Project Management, and Multi-Format Exports.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
